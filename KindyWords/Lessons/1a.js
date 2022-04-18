@@ -1,3 +1,5 @@
+document.write(5 + 6);
+
 var words1a = [
 "cat",
 "hat",
